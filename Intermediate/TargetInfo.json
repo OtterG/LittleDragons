@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "LayaPerson",
+			"Path": "..\\Source\\LayaPerson.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "LayaPersonEditor",
+			"Path": "..\\Source\\LayaPersonEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

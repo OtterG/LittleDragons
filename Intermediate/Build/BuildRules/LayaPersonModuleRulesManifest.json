@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Unreal_project\\LittleDragons\\Source\\LayaPerson\\LayaPerson.Build.cs",
+		"D:\\Unreal_project\\LittleDragons\\Source\\LayaPerson.Target.cs",
+		"D:\\Unreal_project\\LittleDragons\\Source\\LayaPersonEditor.Target.cs"
+	],
+	"EngineVersion": "5.4.4"
+}
